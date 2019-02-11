@@ -7,6 +7,8 @@ Stuff here:
 - Applications of PCA/SVD
 - Naive Bayes from scratch for MNIST
 - HOG Features from scratch
+- KNN on a synethtic dataset and the Iris dataset
+- K-means on the Iris dataset
 - (WIP) Decision Trees on titanic dataset.
 
 Todo:
