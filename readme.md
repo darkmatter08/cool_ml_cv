@@ -9,12 +9,12 @@ Stuff here:
 - HOG Features from scratch
 - KNN on a synethtic dataset and the Iris dataset
 - K-means on the Iris dataset
-- Decision Trees on titanic dataset.
+- Decision Trees on the Titanic dataset.
 
 TODO:
-- More trees - random forests
-- Trees - bagging
-- Boosting/Adaboost
+- Tree pruning on the Titanic dataset.
+- More trees - random forests, bagging (bootstrap aggregation), boosting
+- Boosting/Adaboost/XGBoost
 - Some kind of bayesian learning algorithm. Maybe a Gaussian Process? Perhaps start with an E-M clustering algo.
 
 A useful resource is Introduction to Statistical Learning (ISL). I found Chapter 8 on Tree based methods especially useful.
