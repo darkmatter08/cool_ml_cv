@@ -7,11 +7,16 @@ Stuff here:
 - Applications of PCA/SVD
 - Naive Bayes from scratch for MNIST
 - HOG Features from scratch
-- (WIP) Decision Trees on titanic dataset.
+- KNN on a synethtic dataset and the Iris dataset
+- K-means on the Iris dataset
+- Decision Trees on the Titanic dataset.
 
-Todo:
-- More trees
-- Boosting/Adaboost
+TODO:
+- Tree pruning on the Titanic dataset.
+- More trees - random forests, bagging (bootstrap aggregation), boosting
+- Boosting/Adaboost/XGBoost
 - Some kind of bayesian learning algorithm. Maybe a Gaussian Process? Perhaps start with an E-M clustering algo.
+
+A useful resource is Introduction to Statistical Learning (ISL). I found Chapter 8 on Tree based methods especially useful.
 
 Enjoy!
